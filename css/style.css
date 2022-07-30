@@ -1,0 +1,30 @@
+body{
+    background-color: coral;
+}
+
+
+.container{
+    background-color: bisque;
+    width: 45vw;
+    margin: auto;
+    padding: 70px;
+    border-radius: 15px;
+}
+
+#age{
+    font-size: 22px;
+}
+
+#agelabel{
+    font-size: 22px;
+}
+
+#btnHesapla{
+    font-size: 15px;
+}
+
+#result{
+    text-align: center;
+    font-size: 40px;
+    color: blueviolet;
+}
